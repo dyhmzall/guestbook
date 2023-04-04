@@ -10,3 +10,8 @@
 
 > symfony open:local
 
+## Генерация кода
+
+> symfony console make:controller ConferenceController
+> 
+> 
